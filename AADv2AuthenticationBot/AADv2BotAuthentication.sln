@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AADv2BotAuthentication", "authbot\AADv2BotAuthentication.csproj", "{B10B6D50-CA08-4E1C-8212-B7BD38A94688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AADv2BotAuthenticationBot", "AADv2BotAuthenticationBot\AADv2BotAuthentication.csproj", "{B10B6D50-CA08-4E1C-8212-B7BD38A94688}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
